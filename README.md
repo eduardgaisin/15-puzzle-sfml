@@ -3,8 +3,8 @@
 
 # Installation
   ## Dependencies
-    - CMake, version 3.18+
-    - SFML, version 2.5+
+  - CMake, version 3.18+
+  - SFML, version 2.5+
 
   ## Building
   Clone repository, cd to project directory, run build script
