@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY  "${CMAKE_BINARY_DIR}/target")
 
 set(SFML_USE_STATIC_LIBS ON)
-find_package(SFML 2.5 REQUIRED network audio graphics window system)
+find_package(SFML 2.5 REQUIRED graphics window system)
 include_directories(SFMLClicker PUBLIC ${SFML_INCLUDE_DIR})
 
 include_directories(
