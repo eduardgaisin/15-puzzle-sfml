@@ -15,10 +15,10 @@
   ```
 
   ## Launching
-  To run game, navigate to `build/target` folder and run `15-puzzle-sfml`
+  To run game, navigate to `build/target` folder and run `15-puzzle-sfml` with argument
   ```
   cd build/target/
-  ./15-puzzle-sfml
+  ./15-puzzle-sfml <board_size>
   ```
 
 # Controls
